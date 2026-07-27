@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+dashboard-backend/
+.venv/
+.DS_Store
+__pycache__/
+/data/2022.csv
+/data/2023.csv
+/data/2024.csv
+/data/2025-1.csv
+/data/2025-2.csv
+/data/2025-3.csv
+/data/2025-4.csv
+
+.git-backup
+node_modules

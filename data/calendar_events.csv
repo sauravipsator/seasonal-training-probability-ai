@@ -1,0 +1,81 @@
+date,event_name,event_type,festival_flag,holiday_flag,local_event_flag
+2023-01-26,Republic Day,National holiday,0,1,0
+2023-03-08,Holi,Festival,1,1,0
+2023-03-30,Ram Navami,Festival,1,1,0
+2023-04-07,Good Friday,National holiday,0,1,0
+2023-04-14,Ambedkar Jayanti,National holiday,0,1,0
+2023-04-22,Eid al-Fitr,Festival,1,1,0
+2023-06-29,Bakrid,Festival,1,1,0
+2023-08-15,Independence Day,National holiday,0,1,0
+2023-08-30,Raksha Bandhan,Festival,1,0,0
+2023-09-07,Janmashtami,Festival,1,1,0
+2023-09-19,Ganesh Chaturthi,Festival,1,0,0
+2023-10-02,Gandhi Jayanti,National holiday,0,1,0
+2023-10-24,Dussehra,Festival,1,1,0
+2023-11-12,Diwali,Festival,1,1,0
+2023-11-27,Guru Nanak Jayanti,Festival,1,1,0
+2023-12-25,Christmas,National holiday,0,1,0
+2024-01-26,Republic Day,National holiday,0,1,0
+2024-03-08,Maha Shivratri,Festival,1,1,0
+2024-03-25,Holi,Festival,1,1,0
+2024-03-29,Good Friday,National holiday,0,1,0
+2024-04-11,Eid al-Fitr,Festival,1,1,0
+2024-04-17,Ram Navami,Festival,1,1,0
+2024-06-17,Bakrid,Festival,1,1,0
+2024-08-15,Independence Day,National holiday,0,1,0
+2024-08-19,Raksha Bandhan,Festival,1,0,0
+2024-08-26,Janmashtami,Festival,1,1,0
+2024-09-07,Ganesh Chaturthi,Festival,1,0,0
+2024-10-02,Gandhi Jayanti,National holiday,0,1,0
+2024-10-13,Dussehra,Festival,1,1,0
+2024-10-31,Diwali,Festival,1,1,0
+2024-11-15,Guru Nanak Jayanti,Festival,1,1,0
+2024-12-25,Christmas,National holiday,0,1,0
+2025-01-26,Republic Day,National holiday,0,1,0
+2025-02-26,Maha Shivratri,Festival,1,1,0
+2025-03-14,Holi,Festival,1,1,0
+2025-03-31,Eid al-Fitr,Festival,1,1,0
+2025-04-06,Ram Navami,Festival,1,1,0
+2025-04-18,Good Friday,National holiday,0,1,0
+2025-06-07,Bakrid,Festival,1,1,0
+2025-08-15,Independence Day,National holiday,0,1,0
+2025-08-16,Janmashtami,Festival,1,1,0
+2025-08-27,Ganesh Chaturthi,Festival,1,0,0
+2025-10-02,Gandhi Jayanti,National holiday,0,1,0
+2025-10-02,Dussehra,Festival,1,1,0
+2025-10-20,Diwali,Festival,1,1,0
+2025-11-05,Guru Nanak Jayanti,Festival,1,1,0
+2025-12-25,Christmas,National holiday,0,1,0
+2026-01-26,Republic Day,National holiday,0,1,0
+2026-02-15,Maha Shivratri,Festival,1,1,0
+2026-03-04,Holi,Festival,1,1,0
+2026-03-19,Eid al-Fitr,Festival,1,1,0
+2026-03-20,March local travel peak,Local event,0,0,1
+2026-03-26,Ram Navami,Festival,1,1,0
+2026-04-03,Good Friday,National holiday,0,1,0
+2026-05-27,Bakrid,Festival,1,1,0
+2026-08-15,Independence Day,National holiday,0,1,0
+2026-08-27,Raksha Bandhan,Festival,1,0,0
+2026-09-04,Janmashtami,Festival,1,1,0
+2026-09-14,Ganesh Chaturthi,Festival,1,0,0
+2026-10-02,Gandhi Jayanti,National holiday,0,1,0
+2026-10-20,Dussehra,Festival,1,1,0
+2026-11-08,Diwali,Festival,1,1,0
+2026-11-24,Guru Nanak Jayanti,Festival,1,1,0
+2026-12-25,Christmas,National holiday,0,1,0
+2027-01-26,Republic Day,National holiday,0,1,0
+2027-03-06,Maha Shivratri,Festival,1,1,0
+2027-03-22,Holi,Festival,1,1,0
+2027-03-30,Eid al-Fitr,Festival,1,1,0
+2027-04-10,Ram Navami,Festival,1,1,0
+2027-04-23,Good Friday,National holiday,0,1,0
+2027-06-16,Bakrid,Festival,1,1,0
+2027-08-15,Independence Day,National holiday,0,1,0
+2027-08-16,Raksha Bandhan,Festival,1,0,0
+2027-08-25,Janmashtami,Festival,1,1,0
+2027-09-04,Ganesh Chaturthi,Festival,1,0,0
+2027-10-02,Gandhi Jayanti,National holiday,0,1,0
+2027-10-10,Dussehra,Festival,1,1,0
+2027-10-29,Diwali,Festival,1,1,0
+2027-11-13,Guru Nanak Jayanti,Festival,1,1,0
+2027-12-25,Christmas,National holiday,0,1,0
