@@ -1,4 +1,4 @@
-# AI Seasonal Demand Forecasting
+# AI Seasonal Demand Forecasting slss
 
 A reproducible operations prototype that turns historical food-order exports into demand forecasts, vendor-readiness actions, event alerts and train-route planning signals.
 
@@ -13,7 +13,7 @@ Historical orders + calendar events
 
 ## What the demo shows
 
-- 30-day daily demand and revenue forecast for each delivery station
+- 30-day daily demand and revenue forecast for each delivery station changes
 - Readiness score plus Normal, Medium, High or Critical capacity risk
 - Recommended vendor count and the number of additional vendors needed
 - Festival and holiday countdown alerts from a populated calendar
